@@ -1,4 +1,4 @@
-import strictEquals from "./strictEquals.js";
+import strictEquals from "./strictEquals";
 console.log("hola");
 let valueA = 1;
 let valueB = 1;
